@@ -1,5 +1,5 @@
 x=12
-a = "HIJO DE PUTA TE VAMOS A MATAR {}"
+a = "SI TE SUMBA EL OIDO {}"
 b = "A" in a
 print(b)
 
